@@ -52,6 +52,23 @@ Sounds on Freesound are published under various Creative Commons licenses, and u
 
 ---
 
+## Supported Versions and Platforms
+
+**Supported Unreal Engine Versions:**
+* Unreal Engine 5.5
+* Unreal Engine 5.6
+* Unreal Engine 5.7
+
+**Supported Platforms:**
+* Windows (Editor)
+* macOS (Editor)
+* Linux (Editor)
+
+> **Linux support note:**
+> The plugin successfully builds for supported Linux Editor targets using Epic’s cross-compilation toolchain. While it has not been manually tested on a native Linux desktop environment, no platform-specific limitations are known.
+
+---
+
 ## Getting Started
 
 1. Download and install the plugin (either at the engine or project level).
