@@ -1,6 +1,6 @@
 # License
 
-**2012–2026 © AucoinStats Inc. All rights reserved.**
+**2026 © AucoinStats Inc. All rights reserved.**
 
 This repository contains documentation and issue-tracking resources for the **Sound Browser for Freesound.org** Unreal Engine plugin.
 
