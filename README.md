@@ -1,4 +1,6 @@
-# Sound Browser for Freesound.org
+# Unreal Engine Sound Browser Editor Plugin For Freesound.org
+
+> **Note**: This repository is for documentation and issue tracking only. The plugin itself is distributed exclusively through the Epic Games Fab Marketplace.
 
 **Sound Browser for Freesound.org** is an Unreal Engine editor plugin that lets you search, preview, and import sound effects from Freesound.org directly inside the Unreal Editor, without leaving your workflow.
 
@@ -6,6 +8,8 @@ The plugin is designed to help solo developers and small teams prototype quickly
 
 > **Disclaimer**  
 > This plugin integrates with the public Freesound.org API but is **not affiliated with, endorsed by, or officially connected to Freesound.org or its maintainers**.
+
+![Sound Browser for Freesound.org - Preview image](assets/sound-browser-plugin-screenshot.png)
 
 ---
 
