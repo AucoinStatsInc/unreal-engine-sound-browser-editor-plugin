@@ -62,10 +62,9 @@ Sounds on Freesound are published under various Creative Commons licenses, and u
 **Supported Platforms:**
 * Windows (Editor)
 * macOS (Editor)
-* Linux (Editor)
 
 > **Linux support note:**
-> The plugin successfully builds for supported Linux Editor targets using Epic’s cross-compilation toolchain. While it has not been manually tested on a native Linux desktop environment, no platform-specific limitations are known.
+> While the editor plugin has not been manually tested on a native Linux environment, no platform-specific limitations are currently known. The plugin is therefore expected to compile and run on Linux Editor builds.
 
 ---
 
