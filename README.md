@@ -64,10 +64,7 @@ Sounds on Freesound are published under various Creative Commons licenses, and u
 * macOS (Editor)
 
 > **macOS support note**  
-> While the plugin has been fully tested and confirmed to work on macOS,  
-> the Fab Store’s macOS build pipeline was not functioning properly at the  
-> time of publication. As a result, no macOS binaries were produced on  
-> Epic’s end for the moment. The issue is expected to be resolved soon.
+> While the plugin has been fully tested and confirmed to work on macOS, the Fab Store’s macOS build pipeline was not functioning properly at the time of publication. As a result, no macOS binaries were produced on Epic’s end for the moment. The issue is expected to be resolved soon.
 
 > **Linux support note (unofficial):**
 > This plugin has not been officially tested on native Linux editor builds.
