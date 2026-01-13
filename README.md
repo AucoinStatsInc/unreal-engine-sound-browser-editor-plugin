@@ -63,17 +63,10 @@ Sounds on Freesound are published under various Creative Commons licenses, and u
 * Windows (Editor)
 * macOS (Editor)
 
-> **macOS support note**  
-> While the plugin has been fully tested and confirmed to work on macOS, the Fab Store’s macOS build pipeline was not functioning properly at the time of publication. As a result, no macOS binaries were produced on Epic’s end for the moment. The issue is expected to be resolved soon.
-
 > **Linux support note (unofficial):**
-> This plugin has not been officially tested on native Linux editor builds.
-> However, it does not rely on any known platform-specific APIs and is expected
-> to compile on Linux-based Unreal Engine editor environments.
+> This plugin has not been officially tested on native Linux editor builds. However, it does not rely on any known platform-specific APIs and is expected to compile on Linux-based Unreal Engine editor environments.
 >
-> Linux support is therefore considered unofficial and is not currently provided
-> as part of the supported platforms listed above.
-
+> Linux support is therefore considered unofficial and is not currently provided as part of the supported platforms listed above.
 
 ---
 
