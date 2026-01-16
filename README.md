@@ -62,11 +62,10 @@ Sounds on Freesound are published under various Creative Commons licenses, and u
 **Supported Platforms:**
 * Windows (Editor)
 * macOS (Editor)
+* Linux (Edtior)
 
-> **Linux support note (unofficial):**
-> This plugin has not been officially tested on native Linux editor builds. However, it does not rely on any known platform-specific APIs and is expected to compile on Linux-based Unreal Engine editor environments.
->
-> Linux support is therefore considered unofficial and is not currently provided as part of the supported platforms listed above.
+> **Linux support note**  
+> Linux support has been validated on **Ubuntu 22.04**, the officially supported Linux distribution for Unreal Engine, using UE versions **5.5**, **5.6**, and **5.7**.
 
 ---
 
